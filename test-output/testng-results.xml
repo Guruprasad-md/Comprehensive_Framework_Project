@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-30T12:30:37 IST" name="Default suite" finished-at="2022-07-30T12:30:57 IST" duration-ms="20332">
+    <groups>
+    </groups>
+    <test started-at="2022-07-30T12:30:37 IST" name="Default test" finished-at="2022-07-30T12:30:57 IST" duration-ms="20332">
+      <class name="com.Mindtree.Runner.Runner">
+        <test-method is-config="true" signature="suite()[pri:0, instance:com.Mindtree.Runner.Runner@33e01298]" started-at="2022-07-30T12:30:37 IST" name="suite" finished-at="2022-07-30T12:30:37 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suite -->
+        <test-method is-config="true" signature="methods()[pri:0, instance:com.Mindtree.Runner.Runner@33e01298]" started-at="2022-07-30T12:30:37 IST" name="methods" finished-at="2022-07-30T12:30:49 IST" duration-ms="11681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methods -->
+        <test-method signature="createAccount()[pri:7, instance:com.Mindtree.Runner.Runner@33e01298]" started-at="2022-07-30T12:30:49 IST" name="createAccount" finished-at="2022-07-30T12:30:56 IST" duration-ms="7111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.Mindtree.Runner.Runner@33e01298]" started-at="2022-07-30T12:30:56 IST" name="exit" finished-at="2022-07-30T12:30:57 IST" duration-ms="1506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.Mindtree.Runner.Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
